@@ -1,7 +1,5 @@
 # Windows 95 Style Offline Page Template
 
-![Windows 95 Style](https://i.imgur.com/XGkMYIR.png)
-
 A nostalgic Windows 95-style offline page template built with React, TypeScript, and [React95](https://github.com/arturbien/React95). Perfect for showing your website's offline state with a retro twist!
 
 ## 🌟 Features
